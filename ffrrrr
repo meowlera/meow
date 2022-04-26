@@ -1,0 +1,41 @@
+<html>
+ <head></head>
+ <body>
+  <h1> пушистый кртик</h1> 
+  <p> кусь <3 </P>
+  <p> мур </P>
+  <p> мяу </P> 
+  <p> мрр </P>
+  <p> :3</P>
+<p><img src="309960a2bae3af980db2ac8baf8e1343ff98c579_hq.jpg"></p>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1-month-old_kittens_32.jpg/426px-1-month-old_kittens_32.jpg"
+          <p><img src=""></p>
+<table border="1">
+ <tr>
+ <td><b>ФИО</b></td>
+ <td>Класс</td>
+ </tr>
+  <tr>
+ <td>Мурмуров А.Т.</td>
+ <td>12</td>
+ </tr>
+ <tr>
+ <td>Гавс Г.К.</td>
+ <td>10</td>
+ </tr> 
+ </table>
+  <p> :></P>
+<p> пример <b>текста</b> и <i>какой-то</i> <s>непонятный</s> <u>текст</u> про что-то </p>
+<p> <font color= "FF0000"> текст.|</font></p>
+  <p> :<</P>
+  <p> мяук</P>
+  <p> мурлык</P>
+  <p>Hello, word!</p>
+<style>
+ p { 
+color: blue
+font-size: 60px
+}
+</stayle>  
+ </body>
+ </html>
